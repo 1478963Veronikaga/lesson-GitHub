@@ -5,3 +5,4 @@ Second create new branch, different from master.
 then make a commit changes.
 Click README.md and click pencil.
 Start writing.
+This time explain all better then now.
