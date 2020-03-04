@@ -1,9 +1,8 @@
 # lesson-GitHub
 How does it work?
-First Create a repository.
-Second create new branch, different from master.
-then make a commit changes.
-Click README.md and click pencil.
+First, create a repository.
+Second,create new branch, different from master.
+Then, make a commit changes.
+Click README.md and click a pencil.
 Start writing.
-This time explain better then now.
 The last change!
